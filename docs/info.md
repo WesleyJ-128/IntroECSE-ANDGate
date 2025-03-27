@@ -13,8 +13,8 @@ this is an and gate
 
 ## How to test
 
-Explain how to use your project
+fine I'll edit
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+all the docs
